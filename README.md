@@ -6,7 +6,7 @@
 
 - A self-taught web engineer: passionate about usability, web performance, and inclusive design
 - Engineering leader working at Palmetto Solar
-- Currently seeking a Master's in Computer Science at Tulane
+- Currently seeking a Master's in Information Technology at Virginia Tech
 
 ## <img src="https://raw.githubusercontent.com/12bdillon/12bdillon/main/images/skills.gif" width="25">  Skills
 
